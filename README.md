@@ -1,5 +1,4 @@
-<div style="display: flex;">
-  <div>
+  <div style="display: flex">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdryannSanntos&show_icons=true&theme=dark">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdryannSanntos&layout=compact&theme=dark">
   </div>
@@ -22,7 +21,6 @@
     <img height="30em" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
     <img height="30em" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   </div>
- </div>
 
 # About me
 Hey! My name's Adryan, im 15 yo and i'm a system developer student. 💻  I really like to programming in javascript, java and php. I either know how to programme react-native and nodejs.. My focus is became a fullstack developer in future 🚀
